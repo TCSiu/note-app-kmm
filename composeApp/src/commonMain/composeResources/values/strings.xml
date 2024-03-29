@@ -1,0 +1,41 @@
+<resources>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="password_confirmation">Password Confirmation</string>
+    <string name="or">OR</string>
+    <string name="have_account">Already have account?</string>
+    <string name="no_account">Don't have an account?</string>
+    <string name="step">Step</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="create">Create</string>
+    <string name="delete">Delete</string>
+    <string name="project">Project</string>
+    <string name="task">Task</string>
+
+    <string name="workflow">Workflow</string>
+    <string name="project_name">Project Name</string>
+    <string name="project_description">Project Description</string>
+
+    <string name="add_workflow">Add Workflow</string>
+    <string name="rename_workflow">Rename %1$s</string>
+
+    <string name="workflow_name_exists">This name already exists</string>
+    <string name="workflow_key_exists">This workflow does not exist</string>
+    <string name="workflow_delete_confirm">Delete %1$s?</string>
+
+    <string name="missing_project_name">Please enter the project name</string>
+    <string name="missing_project_description">Please enter the project description</string>
+    <string name="missing_project_workflow">Please select or create the project workflow</string>
+
+    <string name="unauthorized">unauthorized</string>
+    <string name="not_found">Record Not Found</string>
+    <string name="no_permission">You have no permissions</string>
+    <string name="serialization">System error, please try it later</string>
+    <string name="unknown">System error, please contact admin and try it later</string>
+
+</resources>

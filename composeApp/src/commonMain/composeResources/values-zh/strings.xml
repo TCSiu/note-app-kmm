@@ -1,0 +1,40 @@
+<resources>
+    <string name="login">登入</string>
+    <string name="register">註冊</string>
+    <string name="email">電郵</string>
+    <string name="name">姓名</string>
+    <string name="password">密碼</string>
+    <string name="password_confirmation">確認密碼</string>
+    <string name="or">或</string>
+    <string name="have_account">Already have account?</string>
+    <string name="no_account">Don't have an account?</string>
+    <string name="step">步驟</string>
+    <string name="confirm">確認</string>
+    <string name="cancel">取消</string>
+    <string name="edit">編輯</string>
+    <string name="create">創建</string>
+    <string name="delete">刪除</string>
+    <string name="project">專案</string>
+    <string name="task">工作</string>
+
+    <string name="workflow">工作流程</string>
+    <string name="project_name">專案名稱</string>
+    <string name="project_description">專案描述</string>
+
+    <string name="add_workflow">新增工作流程</string>
+    <string name="rename_workflow">重新命名 %1$s</string>
+
+    <string name="workflow_name_exists">這個名字已經存在</string>
+    <string name="workflow_key_exists">這個流程不存在</string>
+    <string name="workflow_delete_confirm">刪除 %1$s?</string>
+
+    <string name="missing_project_name">請輸入項目名稱</string>
+    <string name="missing_project_description">請輸入項目描述</string>
+    <string name="missing_project_workflow">請選擇或建立專案工作流程</string>
+
+    <string name="unauthorized">未經授權</string>
+    <string name="not_found">找不到記錄</string>
+    <string name="no_permission">您沒有權限</string>
+    <string name="serialization">系統錯誤，請稍後再試</string>
+    <string name="unknown">系統錯誤，請聯絡管理員並稍後再試</string>
+</resources>
